@@ -29,5 +29,6 @@ Features:
 * Share them if you like!
 * Quickly launches your placemarks (saved places) for navigation in Google Earth, Maps and Navigator, Waze, and many others!
 
-##Updated Import Function
-Each Folder and Place are given unique ids that get written to export files. What this means is that you can repeatedly export and import the KML files and no duplicates will be generated. This makes sharing Places immensly useful for teams or organizations that share KML back and forth.
+Updated Import Function
+
+Each Folder and Place are given unique ids that get written to export files. What this means is that you can repeatedly export and import the KML files and no duplicates will be generated. This makes sharing Places immensely useful for teams or organizations that share KML back and forth.
